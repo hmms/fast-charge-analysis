@@ -1,4 +1,4 @@
-matplotlib based python script to analyse csv file with charging data
+A quick analysis of Quick Charge 2.0 performance 
 
 Notes:
 1. data collected using LTC2943 [Breakout board thanks to zapta](https://oshpark.com/shared_projects/HUri2i6R)
