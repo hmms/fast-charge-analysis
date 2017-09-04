@@ -6,7 +6,7 @@ Notes:
 2. Original [Samsung Adaptive Fast Charger](http://www.samsung.com/us/mobile/mobile-accessories/phones/adaptive-fast-charging-wall-charger-detachable-microusb-usb-cable-white-ep-ta20jweusta/) was used for the tests
 3. This data was not acquired on the battery side as it was harder to instrument without permanently damaging the end device
 4. This data does not take into consideration the 'magic' happening on the battery side 
-5. Firmware with complete instructions coming soon, I'll link it in here once it's ready
+5. The charge data is not neceesarily accurate, but is included to provide an idea an estimate of the performance. The charge data does not take into consideration the losses in the battery charge regulator circuit on the smartphone
 
 
 Results: ![Results](results.jpeg?raw=true "Fast Charging in Action")
